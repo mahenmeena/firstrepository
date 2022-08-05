@@ -1,2 +1,6 @@
 could you plz write a programm for adding to number
 a and b
+a = 5
+b = 10
+c = a + b
+print c
